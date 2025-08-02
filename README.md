@@ -1,7 +1,7 @@
 # DevLinks
 Nesse projeto apliquei algumas tecnologias como tailwindcss e firebase para autenticação e requisição no banco de dados. Ainda não possui tela de cadastro, pretendo desenvolver logo logo.
 
-##Funcionalidades
+# Funcionalidades
 <ul>
   <li>Cadastra links de maneira personalizada</li>
   <li>Possui tela de login</li>
