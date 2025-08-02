@@ -9,5 +9,5 @@ Nesse projeto apliquei algumas tecnologias como tailwindcss e firebase para aute
   <li>Possui tela de Admin com proteção a acessos não autorizados</li>
 </ul>
 <h3>Deploy</h3>
-(DevLinks)[https://devlinks-lac.vercel.app]
+[DevLinks](https://devlinks-lac.vercel.app)
 
